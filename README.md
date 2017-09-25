@@ -2,7 +2,8 @@
 
 Repo for the site https://csfortunes.com/
 
-Team:
+Team: <br />
+
 Muscles - General organization
 
 nerdcatss - Webserver stuff
